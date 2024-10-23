@@ -1,0 +1,7 @@
+C:\Users\CC2_PC39\csharp-project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC39\csharp-project\Project\Project\obj\Debug\Project.MainForm.resources
+C:\Users\CC2_PC39\csharp-project\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\CC2_PC39\csharp-project\Project\Project\bin\Debug\Project.exe
+C:\Users\CC2_PC39\csharp-project\Project\Project\bin\Debug\Project.pdb
+C:\Users\CC2_PC39\csharp-project\Project\Project\obj\Debug\Project.exe
+C:\Users\CC2_PC39\csharp-project\Project\Project\obj\Debug\Project.pdb
